@@ -1,0 +1,17 @@
+# IntelliJ project files
+### IDEA ###
+.idea
+*.iml
+out
+/.idea/
+
+### TESTING ###
+/target/
+/target/test-classes/
+/logs/
+/reports/**
+/.allure/
+/.screenshot/
+/.browsers/
+/browsers/
+browsers
